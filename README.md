@@ -48,6 +48,26 @@
 * Alterar o PATH do Windows informando o diretório onde os drivers foram descompactados e clicar em Salvar.
 
 
+5. **Projeto Maven**
+
+* Criar um projeto MAVEN através do Eclipse IDE em File > New > Other > Maven > Maven Project > opção "Create a simple project".
+* Informar o Group id (link da empresa), o Artfact id (nome do projeto) > botão Finish.
+
+
+6. **Atualizar o arquivo POM.xml**
+
+* Para adicionar as bibliotecas do Selenium Webdriver e suas dependências, digitar no arquivo *"POM.xml"*:
+
+```
+<dependencies>
+  	<dependency>
+  		<groupId>org.seleniumhq.selenium</groupId>
+  		<artifactId>selenium-java</artifactId>
+  		<version>3.4.0</version>
+  	</dependency>
+</dependencies>
+```
+
 ### License
 
 MIT License © Luciana Muniz Freire.
