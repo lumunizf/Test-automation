@@ -88,6 +88,6 @@ javac -version
 </dependencies>
 ```
 
-### License
+## License
 
 MIT License © Luciana Muniz Freire.
