@@ -1,4 +1,4 @@
-# Test-automation with Selenium Webdriver
+# Test-automation with Selenium Webdriver and Java
 
 ### Pré-Requisitos
 
