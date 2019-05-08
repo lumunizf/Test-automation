@@ -1,6 +1,6 @@
 # Test-automation with Selenium Webdriver
 
-## Pré-Requisitos
+### Pré-Requisitos
 
  * Eclipse IDE instalado.
  * Java 8 development kit (JDK) instalado e configurado.
@@ -8,6 +8,6 @@
  * Driver do Google Chrome: chromedriver.
  * Driver do Internet Explorer: IEDriverServer.
 
-## License
+### License
 
 MIT License © Luciana Muniz Freire.
