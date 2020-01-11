@@ -21,7 +21,8 @@
 
 ## Motivação
 
-Este repositório nasceu da necessidade de encontrar exercícios de automação de testes próximos da realidade no dia a dia das empresas. Procurei reunir neste espaço os exercícios de automação de testes que realizei utilizando o Selenium Webdriver com Java.
+Este repositório nasceu da necessidade de encontrar exercícios de automação de testes próximos da realidade no dia a dia das empresas.
+Procurei reunir neste espaço os exercícios de automação de testes que realizei utilizando o Selenium Webdriver com Java.
 
 
 
@@ -48,4 +49,5 @@ bundle exec fastlane test
 ## License
 
 
-Este projeto está licenciado sob os termos da **MIT License** © [Luciana Muniz Freire](https://br.linkedin.com/in/lumunizf). Para mais informações leia o arquivo de [LICENÇA](https://github.com/lumunizf/Test-automation/blob/master/LICENSE).
+Este projeto está licenciado sob os termos da **MIT License** © [Luciana Muniz Freire](https://br.linkedin.com/in/lumunizf).
+Para mais informações leia o arquivo de [LICENÇA](https://github.com/lumunizf/Test-automation/blob/master/LICENSE).
