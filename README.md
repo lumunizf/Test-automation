@@ -21,8 +21,8 @@
 
 ## Motivação
 
-Este repositório nasceu da necessidade de encontrar exercícios de automação de testes próximos da realidade no dia a dia das empresas. <BR/>
-Procurei reunir neste espaço os exercícios de automação de testes que realizei utilizando o Selenium Webdriver com Java.
+Este repositório nasceu da necessidade de encontrar exercícios próximos da realidade no dia a dia das empresas. <BR/>
+Procurei reunir neste espaço os exercícios de automação de testes que realizei utilizando Selenium Webdriver e Java.
 
 
 
