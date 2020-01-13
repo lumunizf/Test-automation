@@ -33,9 +33,7 @@ Procurei reunir neste espaço os exercícios de automação de testes que realiz
  * Maven - Versão 4.0.0
  * Selenium Webdriver - Versão 3.4.0
  * JUnit - Versão 4.12
- * Driver Firefox: geckodriver ou
- * Driver Google Chrome: chromedriver ou
- * Driver Internet Explorer: IEDriverServer.
+ * Drivers - Firefox: geckodriver | Google Chrome: chromedriver | Internet Explorer: IEDriverServer.
 
  
 ## Configuração
