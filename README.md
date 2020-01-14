@@ -1,6 +1,6 @@
 # Test Automation
 
-![GitHub](https://img.shields.io/github/license/lumunizf/test-automation?style=flat)
+[![GitHub license](https://img.shields.io/github/license/lumunizf/Test-automation)](https://github.com/lumunizf/Test-automation/blob/master/LICENSE)
 ![GitHub issues](https://img.shields.io/github/issues/lumunizf/test-automation)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/lumunizf/Test-automation)
 [![Twitter: @lumunizf](https://img.shields.io/badge/Contact-@lumunizf-blueviolet.svg?style=flat)](https://twitter.com/lumunizf) 
