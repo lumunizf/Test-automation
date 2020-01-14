@@ -3,7 +3,7 @@
 [![GitHub license](https://img.shields.io/github/license/lumunizf/Test-automation)](https://github.com/lumunizf/Test-automation/blob/master/LICENSE)
 ![GitHub top language](https://img.shields.io/github/languages/top/lumunizf/Test-automation)
 [![GitHub issues](https://img.shields.io/github/issues/lumunizf/test-automation)](https://github.com/lumunizf/Test-automation/issues) 
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/lumunizf/Test-automation)](https://github.com/lumunizf/Test-automation/commits/master)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/lumunizf/Test-automation)](https://img.shields.io/github/issues-closed/lumunizf/Test-automation)
 [![GitHub last commit](https://img.shields.io/github/last-commit/lumunizf/Test-automation)](https://github.com/lumunizf/Test-automation/commits/master)
 [![Twitter: @lumunizf](https://img.shields.io/badge/Contact-@lumunizf-blueviolet.svg?style=flat)](https://twitter.com/lumunizf) 
 [![Twitter: Follow](https://img.shields.io/twitter/follow/lumunizf?label=Follow&style=flat)](https://twitter.com/lumunizf) 
