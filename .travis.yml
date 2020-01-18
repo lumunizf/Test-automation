@@ -1,0 +1,11 @@
+language: java
+java: 
+ - "1.00"
+
+ script:
+ - java.DadosPessoaisCV DadosPessoaisCV.java
+ 
+ after script:
+ notification:
+    recipients:
+     - lumunizf@gmail.com
