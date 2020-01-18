@@ -5,7 +5,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/lumunizf/test-automation)](https://github.com/lumunizf/Test-automation/issues) 
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/lumunizf/Test-automation)](https://img.shields.io/github/issues-closed/lumunizf/Test-automation)
 [![GitHub last commit](https://img.shields.io/github/last-commit/lumunizf/Test-automation)](https://github.com/lumunizf/Test-automation/commits/master)
-[![Twitter: @lumunizf](https://img.shields.io/badge/Contact-@lumunizf-blueviolet.svg?style=flat)](https://twitter.com/lumunizf) 
+[![Twitter: @lumunizf](https://img.shields.io/badge/Twitter-@lumunizf-blueviolet.svg?style=flat)](https://twitter.com/lumunizf) 
 [![Twitter: Follow](https://img.shields.io/twitter/follow/lumunizf?label=Follow&style=flat)](https://twitter.com/lumunizf) 
 [![Website](https://img.shields.io/website?url=https://medium.com/@lumunizf)](https://medium.com/@lumunizf)
 
@@ -87,18 +87,14 @@ javac -version
 
 ### 5. Drivers dos browsers
 
-* Download do [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/home)
-
-* Download do [GeckoDriver](https://github.com/mozilla/geckodriver/releases)
-
-* Download do [IEDriverServer](https://www.seleniumhq.org/download/)
+* Download do [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/home) | [GeckoDriver](https://github.com/mozilla/geckodriver/releases) | [IEDriverServer](https://www.seleniumhq.org/download/)
 
 * Extrair os arquivos no diretório C:\Windows
 
 * Alterar o PATH do Windows informando o diretório onde os drivers foram descompactados e clicar em Salvar.
 
 
-### 6. Projeto Maven
+### 6. Maven
 
 * Criar um projeto MAVEN através do Eclipse IDE em File > New > Other > Maven > Maven Project > opção "Create a simple project".
 
