@@ -3,9 +3,9 @@ java:
  - "1.00"
 
  script:
- - java.DadosPessoaisCV DadosPessoaisCV.java
+ - mvn test
  
  after script:
- notification:
-    recipients:
+ notifications:
+    email:
      - lumunizf@gmail.com
