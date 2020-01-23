@@ -6,7 +6,6 @@
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/lumunizf/Test-automation)](https://img.shields.io/github/issues-closed/lumunizf/Test-automation)
 [![GitHub last commit](https://img.shields.io/github/last-commit/lumunizf/Test-automation)](https://github.com/lumunizf/Test-automation/commits/master)
 [![Twitter: @lumunizf](https://img.shields.io/badge/Twitter-@lumunizf-blueviolet.svg?style=flat)](https://twitter.com/lumunizf) 
-[![Twitter: Follow](https://img.shields.io/twitter/follow/lumunizf?label=Follow&style=flat)](https://twitter.com/lumunizf) 
 [![Website](https://img.shields.io/website?url=https://medium.com/@lumunizf)](https://medium.com/@lumunizf)
 
 
