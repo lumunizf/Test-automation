@@ -1,6 +1,5 @@
 # Test Automation
 
-<p align="center">
 [![GitHub license](https://img.shields.io/github/license/lumunizf/Test-automation)](https://github.com/lumunizf/Test-automation/blob/master/LICENSE)
 ![GitHub top language](https://img.shields.io/github/languages/top/lumunizf/Test-automation)
 [![GitHub issues](https://img.shields.io/github/issues/lumunizf/test-automation)](https://github.com/lumunizf/Test-automation/issues) 
@@ -8,7 +7,6 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/lumunizf/Test-automation)](https://github.com/lumunizf/Test-automation/commits/master)
 [![Twitter: @lumunizf](https://img.shields.io/badge/Twitter-@lumunizf-blueviolet.svg?style=flat)](https://twitter.com/lumunizf) 
 [![Website](https://img.shields.io/website?url=https://medium.com/@lumunizf)](https://medium.com/@lumunizf)
-</p>
 
 
 -------
